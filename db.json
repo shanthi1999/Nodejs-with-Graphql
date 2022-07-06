@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "FIRST_NAME": "shanthi",
+      "AGE": 23,
+      "companyId": 2
+    },
+    {
+      "id": 2,
+      "FIRST_NAME": "shakthi",
+      "AGE": 32,
+      "companyId": 1
+    },
+    {
+      "FIRST_NAME": "eeeee",
+      "AGE": 22,
+      "id": 4
+    },
+    {
+      "FIRST_NAME": "kokila",
+      "AGE": 21,
+      "id": 5
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "title": "iphone",
+      "description": "nice brand"
+    },
+    {
+      "id": 2,
+      "title": "mac",
+      "description": "tech market"
+    }
+  ]
+}
